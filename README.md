@@ -3,10 +3,10 @@ Predict if the customer with the certain information will leave the bank. Used A
 
 Installation:
 MAC:
-pip install theano
-pip install tensorflow 
-pip install keras 
-conda update --all
+1. pip install theano
+2. pip install tensorflow 
+3. pip install keras 
+4. conda update --all
 
 WINDOWS:
 Open Anaconda Prompt. Then enter the following commands: 
