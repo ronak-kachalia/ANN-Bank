@@ -3,7 +3,7 @@ Predict if the customer with the certain information will leave the bank. Used A
 
 Installation:
 MAC:
-pip install theano 
+pip install theano
 pip install tensorflow 
 pip install keras 
 conda update --all
